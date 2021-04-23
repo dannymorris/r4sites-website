@@ -1,0 +1,26 @@
+{
+    "id": "FFACC253",
+    "path": "~/projects/rsites-landing/themes/hargo-hugo-ecommerce-theme/layouts/products/list.html",
+    "project_path": "themes/hargo-hugo-ecommerce-theme/layouts/products/list.html",
+    "type": "html",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1619196853342.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "25,14",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1619196901,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1619196901168,
+    "read_only": false,
+    "read_only_alternatives": []
+}
