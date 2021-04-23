@@ -3,17 +3,16 @@ date: "2019-10-17T11:22:16+06:00"
 description: For Glowing Skin1
 draft: false
 images:
-- image: images/products/product-2.png
-- image: images/products/product-1.png
-- image: images/products/product-3.png
-- image: images/products/product-4.png
-price: "0.01"
-priceBefore: "25.00"
+- image: images/products/book-cover-550.png
+- image: images/products/title-subtitle.png
+- image: images/products/toc.png
+price: "10"
+priceBefore: ""
 productID: "1"
 guid: "a86678a1-08a2-4cb4-b611-177abc20f989"
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut
-title: Taba Cream
+title: Create, Publish, and Analyze Personal Websites Using R
 type: products
 ---
 
