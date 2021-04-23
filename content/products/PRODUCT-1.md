@@ -7,7 +7,7 @@ images:
 - image: images/products/product-1.png
 - image: images/products/product-3.png
 - image: images/products/product-4.png
-price: "0.00"
+price: "0.01"
 priceBefore: "25.00"
 productID: "1"
 guid: "a86678a1-08a2-4cb4-b611-177abc20f989"
