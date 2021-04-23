@@ -1,8 +1,6 @@
-<footer class="section pb-0" id="footer">
+<footer class="section pb-0" style="padding-top:0px" id="footer">
   <div class="container">
     <div class="row border-bottom pb-5 justify-content-between">
-      <div class="col-12 text-center section-sm">
-      </div>
       <div class="col-md-3 col-sm-6">
         <h5 class="font-weight-medium mb-4">Links</h5>
         <ul class="list-unstyled" style="margin-bottom:30px;padding-inline-start: 0px !important;">

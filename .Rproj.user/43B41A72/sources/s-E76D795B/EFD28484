@@ -1,0 +1,26 @@
+{
+    "id": "EFD28484",
+    "path": "~/projects/rsites-landing/config.yaml",
+    "project_path": "config.yaml",
+    "type": "yaml",
+    "hash": "2109614231",
+    "contents": "",
+    "dirty": false,
+    "created": 1619201393858.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "66,31",
+        "scrollLine": "37"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1619202392,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1619202392356,
+    "read_only": false,
+    "read_only_alternatives": []
+}
