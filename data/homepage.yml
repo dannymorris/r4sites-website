@@ -11,4 +11,4 @@ banner:
   button:
     enable : true
     label : "Purchase"
-    link : "products/rsites-book"
+    link : "products/r4sites-book"

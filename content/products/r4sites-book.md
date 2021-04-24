@@ -14,9 +14,12 @@ maxQuantity: 1
 shortDescription: This ebook will teach you my step-by-step process for creating, 
   designing, publishing, and analyzing your very own personal website using R,
   RStudio, and other freely available tools including Git, Hugo, Netlify, and Google Analytics.
+  After purchasing, a link to the ebook website will be delivered to your email provided at checkout.
 title: Create, Publish, and Analyze Personal Websites Using R and RStudio
 type: products
 ---
+
+Author: [Danny Morris](/contact)
 
 Today, most people in Data Analytics recognize the need to have an online presence in order to remain competitive. Having your very own website where you can promote yourself, your personal brand, and your work is the perfect solution. 
 

@@ -15,7 +15,7 @@ params:
   description: This is meta description
   email: demo@email.com
   gmapAPI: https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places
-  googleAnalitycsID: ''
+  googleAnalitycsID: 'UA-195354328-1'
   home: Home
   location: Dhaka, Bangladedsh
   logo: images/logo.png
@@ -54,19 +54,16 @@ params:
       link: '#'
 menu:
   footer:
-    - URL: products/rsites-book
+    - URL: products/r4sites-book
       name: Purchase
       weight: 1
     - URL: terms-conditions
       name: Terms & Conditions
-      weight: 4
-    - URL: contact
-      name: Contact
-      weight: 5
+      weight: 2
   main:
-    - URL: products/rsites-book
+    - URL: products/r4sites-book
       name: Purchase
       weight: 1
     - URL: contact
-      name: Contact
-      weight: 4
+      name: About the Author
+      weight: 2

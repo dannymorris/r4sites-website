@@ -25,16 +25,16 @@
           {{ if .Params.PriceBefore }}
           <s>{{ site.Params.currencySymbol }}{{ .Params.PriceBefore }}</s>
           {{ end }}
-          <span class="lead text-primary" style="font-weight:800;font-size:22px">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
+          <span class="lead text-primary" style="font-weight:800;font-size:28px">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
         </div>
         <p style="font-size: 22px">{{ .Params.ShortDescription | markdownify }}</p>
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
           data-item-file-guid = "{{ .Params.guid }}" data-item-max-quantity = "{{ .Params.maxQuantity }}"
           data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
           {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
-          Purchase
+          Add to cart
         </button>
-        <a href="https://example-anatole.netlify.app/" class="btn btn-primary mr-3">Demo</a>
+        <a href="https://r4sites-sample.netlify.app/" class="btn btn-primary mr-3">Read Sample</a>
       </div>
       <div class="col-12 mt-5">
         <ul class="nav nav-tabs border-bottom-0" id="myTab" role="tablist">
