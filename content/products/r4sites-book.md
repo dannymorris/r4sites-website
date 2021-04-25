@@ -2,10 +2,7 @@
 date: "2019-10-17T11:22:16+06:00"
 description: Ebook
 draft: false
-images:
-- image: images/products/book-cover-550.png
-- image: images/products/title-subtitle.png
-- image: images/products/toc.png
+image: https://i.imgur.com/ozMc7Ra.png
 price: "10"
 priceBefore: ""
 productID: "1"
@@ -19,7 +16,7 @@ title: Create, Publish, and Analyze Personal Websites Using R and RStudio
 type: products
 ---
 
-Author: [Danny Morris](/contact)
+### Description
 
 Today, most people in Data Analytics recognize the need to have an online presence in order to remain competitive. Having your very own website where you can promote yourself, your personal brand, and your work is the perfect solution. 
 

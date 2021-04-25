@@ -18,7 +18,7 @@ params:
   googleAnalitycsID: 'UA-195354328-1'
   home: Home
   location: Dhaka, Bangladedsh
-  logo: images/logo.png
+  logo: https://i.imgur.com/x05ydUB.png
   mapLatitude: '51.5223477'
   mapLongitude: '-0.1622023'
   mapMarker: images/marker.png

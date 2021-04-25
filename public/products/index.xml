@@ -8,12 +8,13 @@
     <language>en</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Create, Publish, and Analyze Personal Websites Using R</title>
-      <link>/products/test-product/</link>
+      <title>Create, Publish, and Analyze Personal Websites Using R and RStudio</title>
+      <link>/products/r4sites-book/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/test-product/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>/products/r4sites-book/</guid>
+      <description>Author: Danny Morris
+Today, most people in Data Analytics recognize the need to have an online presence in order to remain competitive.</description>
     </item>
     
   </channel>
