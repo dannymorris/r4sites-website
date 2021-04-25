@@ -20,7 +20,7 @@
           {{ end }}
           <span class="lead text-primary" style="font-weight:800;font-size:28px">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
         </div>
-        <p style="font-size: 22px">{{ .Params.ShortDescription | markdownify }}</p>
+        <p style="font-size: 18px">{{ .Params.ShortDescription | markdownify }}</p>
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
           data-item-file-guid = "{{ .Params.guid }}" data-item-max-quantity = "{{ .Params.maxQuantity }}"
           data-item-name="{{ .Title }}" data-item-image="{{ .Params.image }}"
