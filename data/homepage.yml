@@ -11,5 +11,9 @@ banner:
   image : https://i.imgur.com/ozMc7Ra.png
   button:
     enable : true
-    label : "Purchase"
+    label : "Learn More"
     link : "products/r4sites-book"
+  button2:
+    enable : true
+    label : "Sample Chapter"
+    link : "https://r4sites-sample.netlify.app/"

@@ -57,13 +57,16 @@ menu:
     - URL: products/r4sites-book
       name: Purchase
       weight: 1
+    - URL: contact
+      name: Contact
+      weight: 2
     - URL: terms-conditions
       name: Terms & Conditions
-      weight: 2
+      weight: 3
   main:
     - URL: products/r4sites-book
       name: Purchase
       weight: 1
     - URL: contact
-      name: About the Author
+      name: Contact
       weight: 2
