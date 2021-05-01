@@ -7,9 +7,9 @@ title: Contact
 
 ![Danny Morris](https://i.imgur.com/0nSeEIHm.jpg)
 
-Hi! My name is Danny Morris, and thanks for checking out my book. I am an industry Data Scientist with a passion for writing, creating visual content, and building predictive models. I have published over a dozen websites for various purposes, including my personal website [Abnormal Distributions](https://abndistro.com/), using the methodology described in my book. 
+Hi! My name is Danny Morris, and thanks for checking out my book. I am an industry Data Scientist with a passion for helping people grow their career. I have published over a dozen websites for various purposes, including my personal website [Abnormal Distributions](https://abndistro.com/), using the methodology described in my book. 
 
-More than anything, I love helping people launch or elevate their professional journey. If you are a student, working professional, or researcher looking to establish or enrich your online presence, consider purchasing my book. 
+If you are a student, working professional, or researcher looking to establish or enrich your online presence, consider purchasing my book. 
 
 Get in touch!
 
