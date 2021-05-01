@@ -3,8 +3,8 @@ date: "2019-10-17T11:22:16+06:00"
 description: Ebook
 draft: false
 image: https://i.imgur.com/ozMc7Ra.png
-price: "10"
-priceBefore: ""
+price: "8"
+priceBefore: "10"
 productID: "1"
 guid: "a86678a1-08a2-4cb4-b611-177abc20f989"
 maxQuantity: 1

@@ -1,23 +1,22 @@
 baseURL: "/"
 languageCode: en
-title: Hargo | Hugo Ecommerce Site
+title: Create, Publish, and Analyze Personal Websites Using R and RStudio
 theme: hargo-hugo-ecommerce-theme
 summaryLength: '20'
 paginate: 10
 disqusShortname: ''
 params:
-  author: Themefisher
+  author: Danny Morris
   contact:
-    formAction: '#'
-  copyright: '| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All
-    Rights Reserved |'
+    formAction: 'https://formspree.io/f/xzbydgno'
+  copyright: 'Danny Morris 2021'
   currencySymbol: $
-  description: This is meta description
-  email: demo@email.com
+  description: Landing page for Create, Publish, and Analyze Personal Websites Using R and RStudio
+  email: dmorris10667@gmail.com
   gmapAPI: https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places
   googleAnalitycsID: 'UA-195354328-1'
   home: Home
-  location: Dhaka, Bangladedsh
+  location: Buffalo, New York
   logo: https://i.imgur.com/x05ydUB.png
   mapLatitude: '51.5223477'
   mapLongitude: '-0.1622023'

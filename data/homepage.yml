@@ -5,9 +5,9 @@ banner:
   content : "*Create, Publish, and Analyze Personal Websites Using R and RStudio* is a digital
     handbook with step-by-step instructions for creating and publishing personal websites, blogs,
     and project portfolios using R, RStudio, and other freely available tools including
-    Git, Hugo, Netlify, and Google Analytics. This book is ideal for students, working professionals,
-    and researchers with ties to R or Data Analytics who are interested in boosting their
-    online presence in a fun and creative way."
+    GitHub, Hugo, Netlify, and Google Analytics. This book is ideal for students, working professionals,
+    and researchers with ties to  R, Data Analytics, Data Science, Machine Learning, Statistics, 
+    Mathematics, and related fields where technical writing is commonplace."
   image : https://i.imgur.com/ozMc7Ra.png
   button:
     enable : true
