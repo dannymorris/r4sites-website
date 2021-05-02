@@ -14,7 +14,7 @@ params:
   description: Landing page for Create, Publish, and Analyze Personal Websites Using R and RStudio
   email: dmorris10667@gmail.com
   gmapAPI: https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places
-  googleAnalitycsID: 'UA-195354328-1'
+  googleAnalitycsID: 'UA-196111394-2'
   home: Home
   location: Buffalo, New York
   logo: https://i.imgur.com/x05ydUB.png
