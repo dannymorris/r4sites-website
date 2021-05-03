@@ -12,7 +12,7 @@ banner:
   image : https://i.imgur.com/ozMc7Ra.png
   button:
     enable : true
-    label : "Buy"
+    label : "Get a copy"
     link : "products/r4sites-book"
   button2:
     enable : true
