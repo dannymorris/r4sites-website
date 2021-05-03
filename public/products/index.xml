@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Products on Hargo | Hugo Ecommerce Site</title>
+    <title>Products on Create, Publish, and Analyze Personal Websites Using R and RStudio</title>
     <link>/products/</link>
-    <description>Recent content in Products on Hargo | Hugo Ecommerce Site</description>
+    <description>Recent content in Products on Create, Publish, and Analyze Personal Websites Using R and RStudio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="/products/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
       <guid>/products/r4sites-book/</guid>
-      <description>Description Today, most people in Data Analytics recognize the need to have an online presence in order to remain competitive. Having your very own website where you can promote yourself, your personal brand, and your work is the perfect solution.</description>
+      <description>In 2018, I had virtually no online presence other than about 100 random LinkedIn connections. I knew this was a problem given my budding interest in Data Science, the increasing demand for project portfolios, and the perceived need to &amp;ldquo;stand out&amp;rdquo; in the digital crowd.</description>
     </item>
     
   </channel>
