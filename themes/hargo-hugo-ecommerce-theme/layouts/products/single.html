@@ -16,9 +16,9 @@
         {{ end }}
         <div class="my-4">
           {{ if .Params.PriceBefore }}
-          <s>{{ site.Params.currencySymbol }}{{ .Params.PriceBefore }}</s>
+          <s style="font-weight:300;font-size:20px">{{ site.Params.currencySymbol }}{{ .Params.PriceBefore }}</s>
           {{ end }}
-          <span class="lead text-primary" style="font-weight:800;font-size:28px">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
+          <span class="lead text-primary" style="font-weight:800;font-size:28px"> {{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
         </div>
         <p style="font-size: 18px">{{ .Params.ShortDescription | markdownify }}</p>
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"

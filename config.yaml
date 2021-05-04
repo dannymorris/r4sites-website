@@ -54,18 +54,21 @@ params:
 menu:
   footer:
     - URL: products/r4sites-book
-      name: Purchase
+      name: Download
       weight: 1
     - URL: contact
-      name: Contact
+      name: About the Author
       weight: 2
     - URL: terms-conditions
       name: Terms & Conditions
       weight: 3
   main:
     - URL: products/r4sites-book
-      name: Purchase
+      name: Download
       weight: 1
     - URL: contact
-      name: Contact
+      name: About the Author
       weight: 2
+    - URL: terms-conditions
+      name: Terms & Conditions
+      weight: 3

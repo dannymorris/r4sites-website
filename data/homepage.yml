@@ -8,11 +8,11 @@ banner:
     GitHub, Hugo, Netlify, and Google Analytics. This book is ideal for students, 
     working professionals, and researchers with ties to  R, Data Analytics, Data Science, 
     Machine Learning, Statistics, Mathematics, and related fields where 
-    project portfolios and online profiles are in-demand."
+    project portfolios and online profiles are becoming increasingly common."
   image : https://i.imgur.com/ozMc7Ra.png
   button:
     enable : true
-    label : "Get a copy"
+    label : "Download"
     link : "products/r4sites-book"
   button2:
     enable : true
