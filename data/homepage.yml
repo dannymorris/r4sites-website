@@ -17,4 +17,4 @@ banner:
   button2:
     enable : true
     label : "Sample Chapter"
-    link : "#"
+    link : "https://r4sites-book-sample.netlify.app/"
