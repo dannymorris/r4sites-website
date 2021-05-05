@@ -1,4 +1,6 @@
 baseURL: "https://r4sites.com"
+enableRobotsTXT: true
+canonifyURLs: true
 languageCode: en
 title: Create, Publish, and Analyze Personal Websites Using R and RStudio
 theme: hargo-hugo-ecommerce-theme
