@@ -74,3 +74,8 @@ menu:
     - URL: terms-conditions
       name: Terms & Conditions
       weight: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
