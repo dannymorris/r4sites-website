@@ -22,9 +22,14 @@
         </div>
         <p style="font-size: 18px">{{ .Params.ShortDescription | markdownify }}</p>
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
-          data-item-file-guid = "{{ .Params.guid }}" data-item-max-quantity = "{{ .Params.maxQuantity }}"
-          data-item-name="{{ .Title }}" data-item-image="{{ .Params.image }}"
-          data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
+          data-item-file-guid = "{{ .Params.guid }}" 
+          data-item-max-quantity = "{{ .Params.maxQuantity }}"
+          data-item-name="{{ .Title }}" 
+          data-item-image="{{ .Params.image }}"
+          data-item-price="{{ .Params.Price }}" 
+          data-item-price-vip="5.00"
+          data-item-url="{{ .Permalink }}" 
+          data-item-description="{{ .Description }}">
           Add to cart
         </button>
         <a href="https://r4sites-book-sample.netlify.app/" target="_blank" class="btn btn-primary mr-3">Sample Chapter</a>
