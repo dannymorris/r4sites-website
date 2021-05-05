@@ -8,7 +8,7 @@ priceBefore: ""
 productID: "1"
 guid: "a86678a1-08a2-4cb4-b611-177abc20f989"
 maxQuantity: 1
-shortDescription: This ebook presents step-by-step instructions for launching your very own personal website using R, RStudio, and other freely available technologies including GitHub, Hugo, Netlify, and Google Analytics.
+shortDescription: This ebook presents step-by-step instructions for launching your very own personal website using R, RStudio, and other freely available technologies including GitHub, Hugo, Netlify, and Google Analytics. <br><br> Purchase now and receive a link to the book in your email and a link to the Slack workspace where you can get help and provide feedback.
 title: Create, Publish, and Analyze Personal Websites Using R and RStudio
 type: products
 ---
