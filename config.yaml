@@ -55,24 +55,15 @@ params:
       link: '#'
 menu:
   footer:
-    - URL: products/r4sites-book
-      name: Download
-      weight: 1
     - URL: contact
       name: About the Author
       weight: 2
-    - URL: terms-conditions
-      name: Terms & Conditions
-      weight: 3
   main:
     - URL: products/r4sites-book
-      name: Download
-      weight: 1
+      name: Donate
+      weight: 2
     - URL: contact
       name: About the Author
-      weight: 2
-    - URL: terms-conditions
-      name: Terms & Conditions
       weight: 3
 
 markup:
